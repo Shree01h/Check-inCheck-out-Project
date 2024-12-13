@@ -1,6 +1,7 @@
 <?php
 require_once '../../inc/db_config.php'; // Adjusted path to inc folder
 require_once '../../inc/essentials.php';
+// hey
 
 header('Content-Type: application/json');
 
