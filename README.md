@@ -1,0 +1,1 @@
+To install in your px please download xampp from browser then download all the required tools and then start the Apache to run the folder of ur project...Also first redirect the project folder into the newly created folder and then to htdocs->xampp->projectfolder and run the code using http://localhost/projectname
